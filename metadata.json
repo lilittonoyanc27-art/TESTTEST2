@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Past Tenses: Pretérito Perfecto & Imperfecto",
+  "description": "An interactive educational application for learning and practicing Spanish past tenses: Pretérito Perfecto and Pretérito Imperfecto, featuring explanations, irregular verbs, exercises, readings, and an educational card game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
